@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: TrinketWatcher
+## Version: 1.0
+## Notes: Trinket CD and Buff Watcher
+## Author: |cffc41f3bKhal|r
+## SavedVariables: TrinketWatcherDB
+
+embeds.xml
+TrinketData.lua
+TrinketWatcher.lua
