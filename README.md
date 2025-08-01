@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/KhalGH/TrinketWatcher-WotLK/refs/heads/assets/assets/Animation3.gif" width="25%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhalGH/TrinketWatcher-WotLK/refs/heads/assets/assets/Animation4.gif" width="25%"> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/KhalGH/TrinketWatcher-WotLK/refs/heads/assets/assets/Animation4a.gif" width="25%"> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/KhalGH/TrinketWatcher-WotLK/refs/heads/assets/assets/Animation6.gif" width="25%"> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/KhalGH/TrinketWatcher-WotLK/refs/heads/assets/assets/Animation5.gif" width="25%">
 </p>
