@@ -25,8 +25,8 @@
 </p>
 
 ## Chat Commands  
-- **`/tw unlock`** → Enables dragging the icon frame.
-- **`/tw lock`** → Locks and save the frame position.
+- **`/tw unlock`** &nbsp; &nbsp;&nbsp; → Enables dragging the icon frame.
+- **`/tw lock`**  &nbsp; &nbsp; &nbsp; &nbsp; → Locks and save the frame position.
 - **`/tw scale <#>`** → Sets icon scale (0.5 to 2.5).  
 
 ## Installation  
