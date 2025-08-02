@@ -328,7 +328,7 @@ local HelpTextList = {
     '  |cff8788ee========= TrinketWatcher Commands =========|r',
     '  |cff00FF98 /tw unlock|r : Enable dragging the icon frame',
     '  |cff00FF98 /tw lock|r : Lock and save the frame position',
-    '  |cff00FF98 /tw scale #|r : Set icon scale (0.5 to 2.5)',
+    '  |cff00FF98 /tw scale #|r : Set icon scale (0.5 to 2)',
     '  |cff8788ee=========================================|r'
 }
 
@@ -369,4 +369,5 @@ SlashCmdList["TRINKETWATCHER"] = function(msg)
             print(line)
         end
     end
+
 end
