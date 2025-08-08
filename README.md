@@ -27,7 +27,7 @@
 ## Chat Commands  
 - **`/tw unlock`** &nbsp; &nbsp;&nbsp; → Enables dragging the icon frame.
 - **`/tw lock`**  &nbsp; &nbsp; &nbsp; &nbsp; → Locks and save the frame position.
-- **`/tw scale <#>`** → Sets icon scale (0.5 to 2.5).  
+- **`/tw scale <#>`** → Sets icon scale (0.5 to 2).  
 
 ## Installation  
 1. [Download](https://github.com/KhalGH/TrinketWatcher-WotLK/releases/download/v1.0/TrinketWatcher-v1.0.zip) the addon
