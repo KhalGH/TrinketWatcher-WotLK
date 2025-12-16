@@ -369,5 +369,4 @@ SlashCmdList["TRINKETWATCHER"] = function(msg)
             print(line)
         end
     end
-
 end

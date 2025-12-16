@@ -61,7 +61,9 @@ ns.trinketData = {
     [47214] = { ICD = 50,  buff = {67671} }, -- Banner of Victory
     [47216] = { ICD = 50,  buff = {67631} }, -- The Black Heart
     [47115] = { ICD = 45,  buff = {67703, 67708} }, -- Death's Veredict N
+    [47303] = { ICD = 45,  buff = {67703, 67708} }, -- Death's Choice N
     [47131] = { ICD = 45,  buff = {67772, 67773} }, -- Death's Veredict H
+    [47464] = { ICD = 45,  buff = {67772, 67773} }, -- Death's Choice H
     [49074] = { ICD = 50,  buff = {60065} }, -- Coren's Chromium Coaster
     [49076] = { ICD = 45,  buff = {60064} }, -- Mithril Pocketwatch
     [49078] = { ICD = 45,  buff = {60062} }, -- Ancient Pickled Egg
@@ -324,6 +326,19 @@ ns.trinketData = {
     [54573] = { buff = {75490} }, -- Glowing Twilight Scale N
     [54589] = { buff = {75495} }, -- Glowing Twilight Scale H
     ------------------------------------------ Non-buff Trinkets ------------------------------------------
+    -- Vanilla
+    [17691] = { CD = 120, spell = 22564 }, -- Stormpike Insignia Rank 1
+    [17900] = { CD = 120, spell = 22564 }, -- Stormpike Insignia Rank 2
+    [17901] = { CD = 120, spell = 22564 }, -- Stormpike Insignia Rank 3
+    [17902] = { CD = 120, spell = 22564 }, -- Stormpike Insignia Rank 4
+    [17903] = { CD = 120, spell = 22564 }, -- Stormpike Insignia Rank 5
+    [17904] = { CD = 30,  spell = 22564 }, -- Stormpike Insignia Rank 6
+    [17690] = { CD = 120, spell = 22563 }, -- Frostwolf Insignia Rank 1
+    [17905] = { CD = 120, spell = 22563 }, -- Frostwolf Insignia Rank 2
+    [17906] = { CD = 120, spell = 22563 }, -- Frostwolf Insignia Rank 3
+    [17907] = { CD = 120, spell = 22563 }, -- Frostwolf Insignia Rank 4
+    [17908] = { CD = 120, spell = 22563 }, -- Frostwolf Insignia Rank 5
+    [17909] = { CD = 30,  spell = 22563 }, -- Frostwolf Insignia Rank 6
     -- TBC
     [25829] = { CD = 120, spell = 33828 }, -- Talisman of the Alliance
     [24551] = { CD = 120, spell = 32140 }, -- Talisman of the Horde
