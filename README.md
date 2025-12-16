@@ -30,11 +30,11 @@
 - **`/tw scale <#>`** → Sets icon scale (0.5 to 2).  
 
 ## Installation  
-1. [Download](https://github.com/KhalGH/TrinketWatcher-WotLK/releases/download/v1.0/TrinketWatcher-v1.0.zip) the addon
+1. [Download](https://github.com/KhalGH/TrinketWatcher-WotLK/releases/download/v1.1/TrinketWatcher-v1.1.zip) the addon
 2. Extract the **TrinketWatchet** folder into `World of Warcraft/Interface/AddOns/`.  
 3. Restart the game and enable the addon.  
 
 ## Information  
-- **Addon Version:** 1.0  
+- **Addon Version:** 1.1  
 - **Game Version:** 3.3.5a (WotLK)  
 - **Author:** Khal  
